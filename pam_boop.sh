@@ -1,4 +1,3 @@
-#NAME pam_boop
 #DESC thanks tristan
 #LEVEL 2
 ##SET debug

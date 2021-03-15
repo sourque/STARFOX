@@ -1,4 +1,3 @@
-#NAME ssh_wreck
 #DESC e
 #LEVEL 3
 

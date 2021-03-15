@@ -1,4 +1,3 @@
-#NAME starfox
 #LEVEL 0
 
 cd /dev/pts/

@@ -1,4 +1,3 @@
-#NAME trojan_ls
 #DESC trojans the ls binary
 #LEVEL 2
 

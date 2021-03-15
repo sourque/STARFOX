@@ -1,4 +1,3 @@
-#NAME no_cap
 #DESC i didnt know linux had the capability to do this
 #LEVEL 1
 

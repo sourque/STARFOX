@@ -1,4 +1,3 @@
-#NAME pam_exec_shenanigans
 #DESC pam_exec... why does it exist?
 #LEVEL 2
 

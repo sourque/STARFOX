@@ -1,4 +1,3 @@
-#NAME nuke_fim
 #DESC prevent/disable file intergrity monitoring
 #LEVEL 1
 

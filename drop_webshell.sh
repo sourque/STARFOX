@@ -1,4 +1,3 @@
-#NAME drop_webshell
 #DESC see title
 #LEVEL 3
 

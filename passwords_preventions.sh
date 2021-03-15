@@ -1,4 +1,3 @@
-#NAME password_preventions
 #DESC hey good job, you changed your password! probably
 #LEVEL 3
 

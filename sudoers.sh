@@ -1,4 +1,3 @@
-#NAME sudoers
 #DESC sudo ...make me a sandwich?
 #LEVEL 4
 

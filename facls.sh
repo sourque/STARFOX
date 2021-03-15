@@ -1,4 +1,3 @@
-#NAME facl
 #DESC :(
 #LEVEL 2
 

@@ -1,4 +1,3 @@
-#NAME suid_hell
 #DESC hope you have file creation audit logs
 #LEVEL 3
 

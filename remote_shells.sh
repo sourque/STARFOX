@@ -1,4 +1,3 @@
-#NAME remote_shells
 #DESC creates some reverse shells :sunglasses:
 #LEVEL 3
 
